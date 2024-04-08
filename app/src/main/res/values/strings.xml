@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ST10444922ASS1</string>
+    <string name="the_historical_figures_app">THE HISTORICAL FIGURES APP</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="please_enter_a_valid_age_it_must_be_a_whole_number_whithout_decimals_or_text">Please enter a valid age- it must be a whole number whithout decimals or text</string>
+</resources>
